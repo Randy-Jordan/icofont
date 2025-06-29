@@ -26,6 +26,6 @@ Just copy and paste into your projects, or host with server by cloning the proje
 [CodingEntrepreneurs - Create your own font awesome](https://www.youtube.com/watch?v=VDy9xktOI6M&t=257s)<br>
 [SurrealCMS - CORS and Cross Domain Fonts](https://www.surrealcms.com/blog/enabling-cross-domain-fonts-with-cors.html)<br>
 [Creating and Implementing your own Icon Font](https://origin-blog.mediatemple.net/design-creative/creating-implementing-icon-font-tutorial/)<br>
-
+[CORS - Server Fault](https://serverfault.com/questions/186965/how-can-i-make-nginx-support-font-face-formats-and-allow-access-control-allow-o)
 ## License
 This project is licensed under GPLv3 - see the [LICENSE](LICENSE) file for details.
